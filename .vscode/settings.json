@@ -1,5 +1,7 @@
 {
-  "java.project.sourcePaths": [],
+  "java.project.sourcePaths": [
+    "HMSConverter"
+  ],
   "java.project.outputPath": "",
 
     /* ---- Editor-level suppression ---- */
