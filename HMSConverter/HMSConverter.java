@@ -17,6 +17,8 @@ public class HMSConverter
         System.out.print("Enter the number of seconds: ");
         int userSeconds = kbd.nextInt();
 
+        System.out.println(" ");
+
         int userActHours = userHours * 3600;
         int userActMinutes = userMinutes * 60;
 

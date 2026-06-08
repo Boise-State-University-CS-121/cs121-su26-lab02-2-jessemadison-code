@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
-    "HMSConverter"
+    "HMSConverter",
+    "SecondsConverter"
   ],
   "java.project.outputPath": "",
 
